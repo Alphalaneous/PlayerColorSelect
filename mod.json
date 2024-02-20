@@ -5,5 +5,6 @@
 	"id": "alphalaneous.playercolorselect",
 	"name": "PlayerColorSelect",
 	"developer": "Alphalaneous",
-	"description": "Adds back the P1 and P2 select for Copy Color"
+	"description": "Adds back the P1 and P2 select for Copy Color",
+	"repository": "https://github.com/Alphalaneous/PlayerColorSelect"
 }
